@@ -1,0 +1,11 @@
+corpo
+viso
+dire
+bocca
+voce
+vedere
+vista
+occhio
+spirare
+vita
+umano
